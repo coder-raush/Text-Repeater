@@ -13,7 +13,7 @@ The **Text Repeater** is a simple, offline-capable web tool that lets you repeat
 
 ## 🌐 Live Demo
 
-You can try it online (or install it for offline use) [here](https://yourdomain.com)  
+You can try it online (or install it for offline use) [here](https://text-repeater-three.vercel.app/)  
 > *(Replace with your actual link)*
 
 ## 📦 How It Works
